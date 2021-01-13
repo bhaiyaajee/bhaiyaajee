@@ -10,3 +10,4 @@ I am Santanu .
 - 📫 How to reach me: shupre19@gmail.com
 - ⚡ Fun fact: I am comedian leader inside.
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bhaiyaajee)](https://github.com/bhaiyaajee/github-readme-stats)
