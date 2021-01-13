@@ -11,6 +11,4 @@ I am Santanu .
 - ⚡ Fun fact: I am comedian leader inside.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bhaiyaajee&hide=contribs,prs)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bhaiyaajee&count_private=true)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bhaiyaajee&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bhaiyaajee&hide=contribs,prs&count_private=true&show_icons=true)
