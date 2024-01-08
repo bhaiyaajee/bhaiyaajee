@@ -2,12 +2,9 @@
 
 I am Santanu . 
 
-- 🔭 I’m currently working on Android 
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on Data Science projects
-- 🤔 I’m looking for help with my project in Machine Learning.
-- 💬 Ask me about C, Java , SQL , Android .
-- 📫 How to reach me: shupre19@gmail.com
+- 🔭 I’m currently working as a Backend Developer 
+- 💬 Ask me about Node js, Express js, JavaScript , Springboot, SQL , Android .
+- 📫 How to reach me: https://linkedin.com/in/santanuanand
 - ⚡ Fun fact: I am comedian leader inside.
 
 
