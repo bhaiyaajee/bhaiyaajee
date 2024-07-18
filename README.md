@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Santanu . 
+I am Santanu,
 
-- 🔭 I’m currently working as a Backend Developer 
-- 💬 Ask me about Node js, Express js, JavaScript , Springboot, SQL , Android .
+- 🔭 I’m currently working as a Software Engineer. 
+- 💬 Ask me about Java, Springboot, Microservices, SQL , Android.
 - 📫 How to reach me: https://linkedin.com/in/santanuanand
 - ⚡ Fun fact: I am comedian leader inside.
 
